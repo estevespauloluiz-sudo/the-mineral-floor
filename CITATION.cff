@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+type: dataset
+title: "The Mineral Floor: Critical Minerals, Green Technology and the Right to Industrialise"
+abstract: >-
+  Bilingual (EN/PT) interactive scrollytelling reconstructing the mineral base
+  of the green transition as three geographies (reserves, mine production and
+  refining) and mapping sixteen critical minerals onto six green value chains.
+authors:
+  - family-names: Esteves
+    given-names: Paulo
+    affiliation: "Pontifical Catholic University of Rio de Janeiro (PUC-Rio); Equal International"
+    orcid: "https://orcid.org/0000-0002-4288-417X"
+version: 1.0.0
+license: CC-BY-4.0
+url: "https://estevespauloluiz-sudo.github.io/the-mineral-floor/"
+repository-code: "https://github.com/estevespauloluiz-sudo/the-mineral-floor"
+keywords:
+  - critical minerals
+  - green industrialisation
+  - mineral refining
+  - green value chains
+  - energy transition
+  - scrollytelling

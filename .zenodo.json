@@ -1,0 +1,44 @@
+{
+  "title": "The Mineral Floor: Critical Minerals, Green Technology and the Right to Industrialise",
+  "upload_type": "other",
+  "description": "<p>Bilingual (English/Portuguese) interactive scrollytelling reconstructing the mineral base of the green transition as three distinct geographies: where critical minerals are held (reserves), where they are mined (production) and where they are refined. It maps those minerals onto six green value chains: solar PV, wind, low-carbon hydrogen, green steel, electric vehicles and grid modernisation.</p><p>Part I explores sixteen critical minerals, comparing each one's share of world reserves, 2024 mine production and refining capacity. Part II shows, for each value chain, which minerals it draws on, the components they enable and an indicative reading of the share of material value they carry. Part III is a world map of where each stage of the chain (extraction, refining, components, final product) physically happens. The piece closes with a synthesis coda and a bilingual methods and sources section. Data: USGS Mineral Commodity Summaries 2025; IEA Global Critical Minerals Outlook 2024 and 2025.</p><p>Part of the Intellectual Property Regimes and Green Industrialisation research programme (Equal International), supported by the Open Society Foundations.</p><p>This archive is a self-contained snapshot of the web page: a single HTML file with D3, TopoJSON and the world basemap inlined and fonts bundled locally, so it renders offline. Open <code>index.html</code> in a browser. A live version is available at https://estevespauloluiz-sudo.github.io/the-mineral-floor/.</p>",
+  "creators": [
+    {
+      "name": "Esteves, Paulo",
+      "affiliation": "Pontifical Catholic University of Rio de Janeiro (PUC-Rio); Equal International",
+      "orcid": "0000-0002-4288-417X"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "keywords": [
+    "critical minerals",
+    "green industrialisation",
+    "mineral refining",
+    "green value chains",
+    "energy transition",
+    "resource nationalism",
+    "intellectual property",
+    "industrial policy",
+    "Global South",
+    "scrollytelling",
+    "data visualisation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://estevespauloluiz-sudo.github.io/the-mineral-floor/",
+      "relation": "isIdenticalTo",
+      "scheme": "url",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://estevespauloluiz-sudo.github.io/mineral-floor/",
+      "relation": "isVariantFormOf",
+      "scheme": "url",
+      "resource_type": "other"
+    }
+  ],
+  "notes": "Recommended citation: Esteves, P. (2026). The Mineral Floor: Critical Minerals, Green Technology and the Right to Industrialise [Interactive scrollytelling]. Intellectual Property Regimes and Green Industrialisation research programme. Brighton: Equal International. Third-party components (D3, topojson-client, world-atlas basemap, Inter and Playfair Display fonts) retain their own licences."
+}
