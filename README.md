@@ -1,5 +1,7 @@
 # Critical Minerals & Green Industrialisation — *The Mineral Floor*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23965491.svg)](https://doi.org/10.5281/zenodo.23965491)
+
 Bilingual (EN / PT) interactive scrollytelling reconstructing the mineral base of the green transition as three distinct geographies — where critical minerals are **held** (reserves), where they are **mined** (production), and where they are **refined** — and mapping those minerals onto the six green value chains: solar PV, wind, low-carbon hydrogen, green steel, EVs and grid modernisation.
 
 Part of the IPR & Green Industrialisation research programme, Equal International. Companion piece to *The Patent Walls*.
@@ -30,9 +32,7 @@ Single self-contained HTML file. D3 v7, the TopoJSON client and the world basema
 
 ## How to cite
 
-Esteves, P. (2026). *The Mineral Floor: Critical Minerals, Green Technology and the Right to Industrialise* [Interactive scrollytelling]. Intellectual Property Regimes and Green Industrialisation research programme. Brighton: Equal International.
-
-<!-- After the first Zenodo release, add the DOI badge and DOI here. -->
+Esteves, P. (2026). *The Mineral Floor: Critical Minerals, Green Technology and the Right to Industrialise* [Interactive scrollytelling]. Intellectual Property Regimes and Green Industrialisation research programme. Brighton: Equal International. https://doi.org/10.5281/zenodo.23965491
 
 ## Attribution
 
